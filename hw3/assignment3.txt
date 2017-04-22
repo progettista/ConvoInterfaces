@@ -1,0 +1,33 @@
+Assignment 3
+
+1. Update your task-oriented and non-task-oriented chatbots to incorporate grounding, specifically repairs. For each of your two chatbots supply a diagram of the corresponding finite state machine (FSM).
+
+* (20%) other-repair (ABB or AB-yes)
+      u: play MJ
+      r: play Michael Jackson?
+      u: play Michael Jackson
+        or
+      u: yes
+* (20%) self-repairs
+      u: Play
+      r: Play who?
+      u: Play Michael Jackson
+* (20%) embedded corrections
+      u: Play MJ
+      r: Playing Michael Jackson
+
+2. (20%) https://www.youtube.com/watch?v=t7Xr3AsBEK4
+
+    Write a couple of paragraphs describing your opinion about the talk.
+
+	
+
+3. (20%) Read the Linguistic Forms section of the Wikipedia article on Ambiguity: https://en.wikipedia.org/wiki/Ambiguity#Linguistic_forms
+
+    Write about the possible linguistic ambiguities in your two chatbots.
+
+	
+
+4. Optional: Watch Episode 1 Season 1 of Humans (AMC show)
+
+	I did! Now I need to watch more…

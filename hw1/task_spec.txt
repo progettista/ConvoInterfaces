@@ -1,0 +1,8 @@
+Task: Pass the butter
+
+1. User says a phrase including “pass the butter”
+2. Bot responds “Ok, here’s the butter.”
+3. User says “thank you”
+4. Bot says “You’re welcome. What is my purpose?”
+5. User says phrase including “you”
+6. Bot says “Oh my god.”

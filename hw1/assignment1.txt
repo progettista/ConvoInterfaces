@@ -1,0 +1,36 @@
+Due Friday, 1/27, 11:59:
+
+1. In the end of the class we talked about the theory of Media Equation. One of the examples of the equation at work was something we discussed before: we like home assistants to tell jokes, just like we like humans do. Can you come up with some examples when media equation doesn't work? Povide some hypotheses as to why the equation doesn't work in those cases.
+
+Deliverable: submit a short write-up via google classroom.
+
+2. Build a task-oriented and a non-task-oriented chatbot using the switch.html sample code.
+
+2.1 Introduction:
+Task-oriented systems solve a particular task:
+- provide information (weather, stocks,..)
+- perform an action (book tickets, turn on the lights,...)
+
+Non-task-oriented systems do not solve a task in a traditional sense, like above, but instead engage a user in conversation, or entertain:
+- tell a joke
+- tell an interesting story
+
+2.2 Setting up:
+For this assignment you will need to follow README.md provided with switch.html to install python, run a webserver and run a simple speech-based chatbot in your Chrome browser. You can ask your classmates who succeeded in doing this for help with this part of the task. Let me know if you have problems with that.
+
+One you can run switch.html, make yourself familiar with what it does:
+- press the mic button. 
+- say something like "hello, how are you today?" or "goodbye, was nice talking to you"
+- the chatbot should answer in voice based on the 3 rules I programmed in switch.html
+
+Find the place in the code of switch.html where there 3 rules that provide request-response pairs are implemented. Hint: Look in the code for the phrases you've heard the chatbot say.
+
+2.3 Problem (a):
+
+- Pick a task for your task-oriented chatbot. Write down in a text file sequence of actions to perform this task (save the file as task_spec.txt). Modify the request-response rules of the original switch.html so that the new file, task_switch.html implements the chatbot that can guide you through this task via a dialogue.
+
+Problem (b):
+- Edit the original switch.html code to add more request-response pairs, save it as non_task_switch.html. Make your chatbot more chatty so that it can engage the user in a non-task oriented interaction.
+
+2.4 Deliverables:
+task_spec.txt, task_switch.html, non_task_switch.html.

@@ -1,0 +1,16 @@
+Assignment 4
+
+1. Consider an example of a music playing chatbot, where you want to handle ALL utterances of the form:
+"Play Madonna"
+"Play Queen"
+"Play Depeche Mode"
+
+In other words, we are assuming that the user will always speak in a template "Play" + ArtistName. One way to implement this would be to have an FSM with an arc (an arrow) for every artist. 
+
+1.1 (10%) Draw such FSM for a few artists.
+
+Since every arc of an FSM gets translated into IF-THEN statement in a program, we would like to minimize the number of arcs. One way to do that is to extract the artist name from the input and pass it to the part of the code that speaks out an acknowledgement "Plahying" + ArtistName, and another part of the code that plays music. Regular expressions allow you to do that. Examine the chatbot in the attached file nlp_re.html .
+
+1.2. (10%) Draw an FSM for the chatbot in nlp_re.html. (Hint: there should be one arc accounting for all values of ArtistName, even those which we don't know will exist.)
+
+1.3 (40%) Similarly to the example in nlp_re.html, extend your task-oriented and non-task-oriented chatbots from the previous assignments with the parsing of the arguments using regular expressions. Supply both FSM sketches and the html files.

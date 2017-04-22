@@ -1,0 +1,6 @@
+Assignment 7
+
+Last week we've got to talk a bit about Ethnics and the meaning of life :) with Michael Chemers. Below is a talk about ethnics in robotics, that, while a bit dated (2009) is still relevant.
+https://www.youtube.com/watch?v=giKT8PkCCv4
+
+Given your impressions from the talk by Michael Chemers and this video of Illah Nourbakhsh, how would you define the ethnical considerations you would like to incorporate in your design endeavors in general, and conversational interfaces specifically.

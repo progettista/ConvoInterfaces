@@ -1,6 +1,10 @@
 Assignment 7
 
-Last week we've got to talk a bit about Ethnics and the meaning of life :) with Michael Chemers. Below is a talk about ethnics in robotics, that, while a bit dated (2009) is still relevant.
+Last week we've got to talk a bit about Ethics and the meaning of life :) with Michael Chemers. Below is a talk about ethics in robotics, that, while a bit dated (2009) is still relevant.
 https://www.youtube.com/watch?v=giKT8PkCCv4
 
-Given your impressions from the talk by Michael Chemers and this video of Illah Nourbakhsh, how would you define the ethnical considerations you would like to incorporate in your design endeavors in general, and conversational interfaces specifically.
+Given your impressions from the talk by Michael Chemers and this video of Illah Nourbakhsh, how would you define the ethical considerations you would like to incorporate in your design endeavors in general, and conversational interfaces specifically.
+
+In general, I think the ethical considederations I would like to incorporate in my design endeavors are not just humanist, but pertain to the environment more broadly--in a word, sustainability. I was glad to see Illah bring up the ABET Code of Ethics given that I studied mechanical engineering once upon a time, and to see that it leads with using "knowledge and skill for the enhancement of human welfare and the environment." This is a good start, but I also believe that especially in matters of engineering and design this is too simplistic because the second- and third- order implications of a technology (and so on) are often very difficult to predict.
+
+That said, with respect to conversational interfaces this concern harkens back to the Sherry Turkle TED talk that questions whether bots that "cure" loneliness can be considered an ethical solution to said problem. Accordingly, I intend to use the three lenses covered by Illah in the scope of responsible conduct--namely, personal agency, collective responsibility, and social good--as a starting point for considering ethics in the context of conversational interfaces. For example, designing a corpus that may delight individuals could have negative impacts on collective human interactions and ultimately undermine social good. These impacts should be thought through as an integral part of the design process and not merely as an afterthought.

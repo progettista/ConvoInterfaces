@@ -1,4 +1,4 @@
-Assignment 2. Due Friday, February 3, 6pm.
+Assignment 2
 
 1. Stateful chatbots (60%)
 In the previous homework you chatbots were stateless: there was no memory about what happened in the previous interaction turns. In this homework you will improve your chatbots with by implementing a finite state machine model of dialogue.
@@ -11,17 +11,21 @@ Study the code fsm.html and answer the following questions:
 	4
 
 1.3 Choose a task domain for your task-oriented chatbot. Design a flow chart of the interaction. State and discuss the design principles behind your interaction design. (20%)
-	Domain: 
+	Domain: Making cocktails.
 	Flow chart: see “fsm-task.jpg”
-	Design principles: 
+	Design principles:
+		- Friendly
+		- Limited drink selection
 
 1.4 Implement the flow chart in code, by modifying fsm.html into fsm-task.html (20%).
 	See fsm-task.html
 
 1.5 Design a flow-chart for a non-task oriented version of your chatbot. State and discuss the design principles behind your interaction design. (20%)
-	Domain: 
+	Domain: Small talk?
 	Flow chart: see “fsm-nontask.jpg”
-	Design principles: 
+	Design principles:
+		- Slightly biting/sarcastic
+		- Affirming
 
 1.6 Implement the flow chart in the code, by modifying fsm.html into fsm-nontask.html. (20%)
 	See fsm-nontask.html
@@ -32,12 +36,12 @@ Write an answer to the following questions:
 
 2.1 What are different ways people adapt their speech to different audiences?
 	People adapt their speech to different audiences in three ways:
-    (1) talking for others: speech is directed at a particular class of people
-    (2) talking to others: speech tailored to an individual person
-    (3) talking with others: speech that evolves collaboratively
+    	(1) talking for others: speech is directed at a particular class of people
+    	(2) talking to others: speech tailored to an individual person
+    	(3) talking with others: speech that evolves collaboratively
 
 2.2 What are different ways adults and children achieve grounding in the communication?
-	
+	Adults and children achieve grounding in communication through physical gestures (such as pointing), self-repair, other-repair, and providing evidence of understanding (like "m-hm").
 
 2.3 How could you incorporate some of the knowledge into your chatbots from the part 1 of the homework?
-	
+	One way that grounding is already incorporated is through acknowledgement of understanding after a human utterance. Another way this knowledge can be applied is through other-repair if, for instance, in the fsm-task hears "shin and tonic" as the requested drink, it could suggest "gin and tonic" as the repair.

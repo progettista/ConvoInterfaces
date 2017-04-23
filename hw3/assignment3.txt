@@ -20,13 +20,15 @@ Assignment 3
 
     Write a couple of paragraphs describing your opinion about the talk.
 
+	Sherry Turkle makes some compelling arguments about loneliness in this video, in particular that we need to ensure our children learn how to be alone, otherwise they will only know how to be lonely. I honestly see and feel this in my own life. I learned to be alone at a young age because I am an "only child" and therefore have no siblings. Over the years, in many ways I think I have unlearned this ability as the internet, social media, and mobile computing have given me incredibly easy access to communicate with anyone almost anytime.
 	
+	While I agree with Sherry's admonitions, I also believe the challenge to be deeply rooted in the mechanics of the attention economy. The act of simply setting aside time and space for reflection is to rebel against what every brand, product, and service ostensibly wants to do with you: connect. Even connecting with others is a mediated experience wherein we are now given suggestions about places to go, things to do, and purchases to make, but all of these "enhancements" to our connection with others are really just additional barriers to genuine communication. The ethical imperative for designers, therefore, is not to intervene in an attempt to enhance connection, but to adequately establish it and get out of the way to the extent possible.
 
 3. (20%) Read the Linguistic Forms section of the Wikipedia article on Ambiguity: https://en.wikipedia.org/wiki/Ambiguity#Linguistic_forms
 
     Write about the possible linguistic ambiguities in your two chatbots.
 
-	
+	Well, I'm already having plenty of problems with phonological ambiguities around the request for a "G&T," so I think this category of ambiguities is likely to present a challenge for cocktails with more exotic names as well. Another possible ambiguity could arise around the word "drink" given that it can be either a verb or a noun. Currently there is no functionality that would allow for this ambiguity to arise.
 
 4. Optional: Watch Episode 1 Season 1 of Humans (AMC show)
 
